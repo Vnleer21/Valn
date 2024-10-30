@@ -1,0 +1,30 @@
+{
+  "name": "Val-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Valneer",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "apexify.js": "^4.5.30",
+    "axios": "^1.6.8",
+    "betabotz-tools": "^0.0.7",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.2.0",
+    "g4f": "^1.4.3",
+    "kleur": "^4.1.5",
+    "path": "^0.12.7",
+    "random-useragent": "^0.5.0",
+    "request": "^2.88.2",
+    "soundcloud-scraper": "^5.0.3",
+    "unlimited-ai": "^2.0.2",
+    "useragent": "^2.3.0"
+  }
+}
