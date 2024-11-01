@@ -7,7 +7,7 @@ exports.config = {
     author: 'Biru',
     description: 'Download from media URLs for platforms like Instagram, Facebook, TikTok, Twitter, and YouTube',
     category: 'tools',
-    usage: ['/downloader?url=https://youtu.be/6e1sJSG2slE?si=FhJ3hBHF6jiLCTJO'] // Update this link as needed
+    usage: ['/downloader?url=https://music.youtube.com/watch?v=smObR_8q5UQ'] // Update this link as needed
 };
 
 exports.initialize = async function ({ req, res }) {
